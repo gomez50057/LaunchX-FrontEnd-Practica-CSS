@@ -20,4 +20,4 @@ La práctica consiste en lo siguiente:
 
 ## Nota
 
-- Soy la pagina https://gomez50057.github.io/LaunchX-FrontEnd-Reposteria/index.html
+- Soy la pagina https://gomez50057.github.io/LaunchX-FrontEnd-Practica-CSS/
