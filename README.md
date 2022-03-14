@@ -1,5 +1,5 @@
-# LaunchX-FrontEnd-Repostería
-## Semana 2🚀:
+# LaunchX-FrontEnd-Vaccination
+## Semana 3🚀:
 
 # Práctica CSS
 
@@ -19,6 +19,5 @@ La práctica consiste en lo siguiente:
 
 
 ## Nota
-Para ver la pantalla del pastelero(admin) dar clik en "REPOSTERIA" localizada en la barra
 
 - Soy la pagina https://gomez50057.github.io/LaunchX-FrontEnd-Reposteria/index.html
